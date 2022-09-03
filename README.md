@@ -1,3 +1,3 @@
 # Pydash
 
-An example pydash app using chat data from Patrick Zoet (2022).
+An example Dash app using chat data from Patrick Zoet (2022).
